@@ -14,11 +14,20 @@ To run this demo, you'll need the following tools:
 
 ## Getting Started
 
-1. Clone this repository: git clone https://github.com/danielj909/GraphQL-API-Udacity.git
+1. Clone this repository: 
 
-2. Change into the project directory: cd GraphQL-API-Udacity
+   ```bash
+   git clone https://github.com/danielj909/GraphQL-API-Udacity.git
 
-3. Build the project: mvn clean install
+2. Change into the project directory: 
+
+   ```bash
+   cd GraphQL-API-Udacity
+
+3. Build the project: 
+
+   ```bash
+   mvn clean install
 
 4. Run the application: mvn spring-boot:run
 
