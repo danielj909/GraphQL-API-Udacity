@@ -14,9 +14,9 @@ To run this demo, you'll need the following tools:
 
 ## Getting Started
 
-1. Clone this repository: git clone https://github.com/your-username/spring-boot-graphql-demo.git
+1. Clone this repository: git clone https://github.com/danielj909/GraphQL-API-Udacity.git
 
-2. Change into the project directory: cd spring-boot-graphql-demo
+2. Change into the project directory: cd GraphQL-API-Udacity
 
 3. Build the project: mvn clean install
 
